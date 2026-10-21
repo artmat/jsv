@@ -1,2 +1,2 @@
 # jsv
-JSON Schema validator challenge in Ruby
+JSON Schema validator
